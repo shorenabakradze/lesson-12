@@ -88,8 +88,8 @@ width: 856px;
     padding-left: 65.25px;
 }  
 .input-element::placeholder {   
-    color: #191A19 50%;
-    text-shadow: 191A19;   
+    color: #191A19; 
+
 }
 .input-element:focus {
     background-color: #f1e1d7;
