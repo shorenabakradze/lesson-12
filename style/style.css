@@ -8,8 +8,10 @@
     justify-content: center;
     align-items: center;
     width: 1442px;
+    margin: 0 auto;
 }
 .text-box{
+  
     font-size: 64px;
     color: #fff;
     Line-height: 96px;
